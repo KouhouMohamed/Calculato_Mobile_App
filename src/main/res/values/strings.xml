@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name = "Btn_calcul">Calculer</string>
+    <string name ="Btn_remove">Remove historic</string>
+    <string name="historic_titel">Historics</string>
+    <string name="first_text"> Search muliples of : </string>
+    <string name="number"> 1 </string>
+
+</resources>
